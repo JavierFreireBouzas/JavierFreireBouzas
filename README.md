@@ -26,15 +26,22 @@
 ![javierfreire-readme](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![javierfreire-readme](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![javierfreire-readme](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![javierfreire-readme](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 ## Programming languages
-![javierfreire-readme](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![javierfreire-readme](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![javierfreire-readme](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![javierfreire-readme](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![javierfreire-readme](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) JAVA  HTML  CSS  
+- JAVA
+- HTML
+- CSS
+- JAVASCRIPT
+- JSON
+- PYTHON
+- ELIXIR
+- C
 
 
 ## Frameworks
+![javierfreire-readme](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![javierfreire-readme](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![javierfreire-readme](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
