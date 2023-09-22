@@ -1,6 +1,6 @@
 ## About me
 
-![javifreire-readme](![imagen](https://github.com/JavierFreireBouzas/JavierFreireBouzas/assets/90532715/6e40226a-57d0-4e8d-bbf9-bb3833fdb06a)
+![javifreire-readme](![imagen](https://github.com/JavierFreireBouzas/JavierFreireBouzas/assets/90532715/6e40226a-57d0-4e8d-bbf9-bb3833fdb06a))
 
 - I am a Software Engineering Student at Universidade da Coruña (A Coruña, Spain).
 - I am passionate about technologies, maths, music and nature.
