@@ -13,7 +13,6 @@
 - HTML
 - CSS
 - JAVASCRIPT
-- JSON
 - PYTHON
 - ELIXIR
 - C
