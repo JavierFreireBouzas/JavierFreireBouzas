@@ -12,7 +12,3 @@
 - CSS
 - JAVASCRIPT
 - PYTHON
-- ELIXIR
-- C
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierFreireBouzas&langs_count=10)
