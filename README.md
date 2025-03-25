@@ -1,7 +1,5 @@
 ## About me
 
-![javifreire-readme](https://github.com/JavierFreireBouzas/JavierFreireBouzas/assets/90532715/6e40226a-57d0-4e8d-bbf9-bb3833fdb06a)
-
 - I am a Full-Stack Developer at Diverger Thinking S.L .
 - I am passionate about technologies, maths, music and nature.
 - I am fluent in english, spanish and galician.
